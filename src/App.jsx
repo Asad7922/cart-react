@@ -15,7 +15,6 @@ function App() {
       <Routes>
         <Route path='/' element={<ProductCard/>} />
         <Route path='/CartPage' element={<CartPage/>} />
-        <div>New Line</div>
       </Routes>
     </BrowserRouter>
     </>
